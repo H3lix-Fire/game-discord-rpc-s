@@ -5,6 +5,7 @@ A bunch of custom rich presence's for Discord based on some games.
 
 
  - Omori
+ - Minecraft
 <br />
 <br />
 
